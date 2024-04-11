@@ -1,0 +1,21 @@
+body 
+{
+    
+    background-color: rgba(255, 0, 51, 0.205);
+}
+#icon {
+    width: 50px;
+    height: 50px;
+}
+h2{
+    color: white;
+    background-color: brown;
+}
+
+p {
+    color: white;
+    background-color: rgb(211, 22, 22);
+}
+main{
+    text-align: center;
+}
