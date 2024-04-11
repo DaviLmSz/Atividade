@@ -1,4 +1,51 @@
+* {
+    background-color: rgb(104, 71, 146);
+    padding: 1px;
+    margin: 1px;
+}
+
+main {
+    text-align: center;
+}
+
+h1 {
+    background-color: rgba(153, 0, 255, 0.438);
+}
+
+#iconvava {
+    float: inline-start;
+    width: 94px;
+    height: 90px;
+}
+
+#iconlol {
+
+    float: inline-end;
+    width: 93px;
+    height: 93px;
+}
+
+#icongta {
+
+    float: inline-start;
+    width: 93px;
+    height: 93px;
+}
+
 #icon {
     width: 50px;
     height: 50px;
+}
+
+.p1 {
+    font-size: 25px;
+    background-color: rgba(137, 43, 226, 0.521);
+
+
+}
+
+.p2,
+.p3,
+.p4 {
+    background-color: rgba(162, 0, 255, 0.534);
 }
